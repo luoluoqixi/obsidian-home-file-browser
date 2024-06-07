@@ -1,14 +1,20 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "home-file-browser",
+	"version": "0.0.1",
+	"description": "This is an obsidian plugin, Replace the home page with a file browser",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
 		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	},
-	"keywords": [],
+	"keywords": [
+		"home-file-browser",
+		"home file browser",
+		"home",
+		"file",
+		"browser"
+	],
 	"author": "",
 	"license": "MIT",
 	"devDependencies": {
