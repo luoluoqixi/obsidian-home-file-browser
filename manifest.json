@@ -1,10 +1,10 @@
 {
-	"id": "home-file-browser",
-	"name": "Home File Browser",
-	"version": "1.0.0",
-	"minAppVersion": "1.00.0",
-	"description": "This is an obsidian plugin, Replace the home page with a file browser",
-	"author": "luoluoqixi",
-	"authorUrl": "https://github.com/luoluoqixi",
-	"isDesktopOnly": false
+  "id": "home-file-browser",
+  "name": "Home File Browser",
+  "version": "1.0.0",
+  "minAppVersion": "1.00.0",
+  "description": "This is an obsidian plugin, Replace the home page with a file browser",
+  "author": "luoluoqixi",
+  "authorUrl": "https://github.com/luoluoqixi",
+  "isDesktopOnly": false
 }
